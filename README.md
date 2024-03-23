@@ -1,2 +1,2 @@
 # VIDEOGAMES
-VIDEO GAMES with JAVA 🖥️
+VIDEO GAMES with JAVA
